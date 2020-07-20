@@ -1,20 +1,23 @@
-{ "on_search" : [{
-  "context": {
-    "domain": "FINAL-MILE-DELIVERY",
-    "action": "search",
-    "version": "0.7.0",
-    "bpp_id": "",
-    "bap_id": "FMD.IND.BLR.BAP.110011",
-    "bg_proxy_id": "FMD.IND.BLR.BG.123444",
-    "timestamp": "2020-07-15T06:43:14.653Z",
-    "transaction_id": "83923oio2i3e",
-    "token": "eyJhbGciOiJIUzI1N.eyJzdWIiOiIxMjQ.SflKxwRJSMeKKF2QTw5c"
-  },
-  "message": {
-    "ack": {
-      "status": "ACK"
+{
+  "on_search": [
+    {
+      "context": {
+        "domain": "FINAL-MILE-DELIVERY",
+        "action": "search",
+        "version": "0.7.0",
+        "bpp_id": "",
+        "bap_id": "FMD.IND.BLR.BAP.110011",
+        "bg_proxy_id": "FMD.IND.BLR.BG.123444",
+        "timestamp": "2020-07-15T06:43:14.653Z",
+        "transaction_id": "83923oio2i3e",
+        "token": "eyJhbGciOiJIUzI1N.eyJzdWIiOiIxMjQ.SflKxwRJSMeKKF2QTw5c"
+      },
+      "message": {
+        "ack": {
+          "status": "ACK"
+        }
+      },
+      "error": {}
     }
-  },
-  "error": {}
-}]
+  ]
 }
