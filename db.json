@@ -1,4 +1,4 @@
-{
+{ "on_search" : [{
   "context": {
     "domain": "FINAL-MILE-DELIVERY",
     "action": "search",
@@ -16,4 +16,5 @@
     }
   },
   "error": {}
+}]
 }
